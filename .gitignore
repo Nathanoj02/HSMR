@@ -15,3 +15,7 @@ pyrightconfig.json
 
 # Logs.
 gpu_monitor.log
+
+# Virtual environments
+.venv/
+dataset/
